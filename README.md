@@ -1,5 +1,6 @@
 # Personal-profile-file
-Hi there MY Name is ADDISU
+Hi there MY Name is ADDISU ETANA
+I'm Currently learning Software Engineering specailized Frontend devloper at ALX Ethiopia.
 
 | Rank | Top skill     |
 |-----:|---------------|
