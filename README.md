@@ -4,7 +4,7 @@ I'm Currently learning Software Engineering specailized Frontend devloper at ALX
 <details>
     <summary> My Top Skill </summary>
     
-    | Rank | Top skill     |
+    | Rank |    Top skill  |
     |-----:|---------------|
     |     1|    Javascript |
     |     2|    HTML5      
