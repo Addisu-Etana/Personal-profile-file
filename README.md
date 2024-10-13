@@ -11,3 +11,21 @@ I'm Currently learning Software Engineering specailized Frontend devloper at ALX
     |     4|   Tailwindcss |
  
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+## contact Me
+
+[<img src="https://img.shields.io/badge/Facebook-blue">](https://www.facebook.com/addisuzola)
+
+
