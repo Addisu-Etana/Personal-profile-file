@@ -7,7 +7,7 @@ I'm Currently learning Software Engineering specailized Frontend devloper at ALX
     | Rank |    Top skill  |
     |-----:|---------------|
     |     1|    Javascript |
-    |     2|    HTML5      
+    |     2|    HTML5      |     
     |     4|   Tailwindcss |
  
 </details>
