@@ -1,6 +1,6 @@
 # Personal-profile-file
 Hi there MY Name is ADDISU ETANA
-I'm Currently learning Software Engineering specailized Frontend devloper at [<img src="https://img.shields.io/badge/ALXETHIOPIA-red">](https://www.alxafrica.com/ethiopia/?gad_source=1&gclid=CjwKCAjw3624BhBAEiwAkxgTOj2Ch0HRrV6jWJaHV5eqvAmDe3vM8e2zGxNqXERjCmaU4iUWNzYTwRoCtlcQAvD_BwE)
+I'm Currently learning Software Engineering specailized Frontend developer at [<img src="https://img.shields.io/badge/ALXETHIOPIA-red">](https://www.alxafrica.com/ethiopia/?gad_source=1&gclid=CjwKCAjw3624BhBAEiwAkxgTOj2Ch0HRrV6jWJaHV5eqvAmDe3vM8e2zGxNqXERjCmaU4iUWNzYTwRoCtlcQAvD_BwE)
 .
 <details>
     <summary> My Top Skill </summary>
